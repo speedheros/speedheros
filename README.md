@@ -15,4 +15,4 @@
     <h1>Профиль на GITHUB</h1>  
 </div> 
 
-### man_technologist: Обо мне:
+### :man_technologist: Обо мне:
