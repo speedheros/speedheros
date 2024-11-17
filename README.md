@@ -23,10 +23,11 @@
 
 ### :hammer_and_wrench: Языки и инструменты:
 
-<div>
- <img scr="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
- <img scr="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
- <img scr="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
- <img scr="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40" height="40"/>
- <img scr="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</div>
+<div>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>  
+</div> 
+
