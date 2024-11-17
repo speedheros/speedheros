@@ -32,3 +32,7 @@
 </div> 
 
 ### :trophy: Достижения:
+
+<div>
+    <img scr="https://github-profile-trophy.vercel.app/?username=speedheros" alt=""/>
+</div>
